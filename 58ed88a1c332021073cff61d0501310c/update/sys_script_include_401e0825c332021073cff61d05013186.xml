@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_100206_newappfor.NewServerccode_forApp</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>NewServerccode_forApp</name>
+        <script><![CDATA[var NewServerccode_forApp = Class.create();
+NewServerccode_forApp.prototype = {
+    initialize: function() {
+    },
+
+	//Mycode here 
+	//Mynext code here
+
+    type: 'NewServerccode_forApp'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 14:13:35</sys_created_on>
+        <sys_id>401e0825c332021073cff61d05013186</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NewServerccode_forApp</sys_name>
+        <sys_package display_value="NewAppForDevOps" source="x_100206_newappfor">58ed88a1c332021073cff61d0501310c</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NewAppForDevOps">58ed88a1c332021073cff61d0501310c</sys_scope>
+        <sys_update_name>sys_script_include_401e0825c332021073cff61d05013186</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-14 14:13:35</sys_updated_on>
+    </sys_script_include>
+</record_update>
